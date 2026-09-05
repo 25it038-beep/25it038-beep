@@ -35,6 +35,7 @@ jobs:
           git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "🐍 Update contribution snake"
+            git pull --rebase origin main || true
             git push origin HEAD
           else
             echo "No changes to commit"
