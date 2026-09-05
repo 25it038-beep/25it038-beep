@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero.svg">
-  <img src="./assets/hero.svg" alt="B.S. Harshan Seliyan — B.Tech IT Student | AI/ML Explorer" width="100%"/>
+  <img src="./harshan-banner-dark.svg/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./harshan-lanyard.svg" alt="B.S. Harshan Seliyan ID badge" width="330"/>
+<img src="./harshan-lanyard.svg" />
 
 </td>
 <td width="62%" valign="middle">
