@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./harshan-banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./harshan-banner-light.svg">
-  <img src="./harshan-banner.svg" alt="B.S. Harshan Seliyan — B.Tech IT Student | AI/ML Explorer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero.svg">
+  <img src="./assets/hero.svg" alt="B.S. Harshan Seliyan — B.Tech IT Student | AI/ML Explorer" width="100%"/>
 </picture>
 
 </div>
@@ -99,7 +99,7 @@ A cybersecurity project focused on analyzing suspicious emails and extracting us
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./harshan-stats.svg" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=25it038-beep&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="185"/>
 <img src="./harshan-languages.svg" alt="Top Languages" height="185"/>
 
 <br/><br/>
@@ -113,8 +113,8 @@ A cybersecurity project focused on analyzing suspicious emails and extracting us
 
 <br/><br/>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./harshan-trophies.svg" alt="Trophies" width="95%"/>
+<!-- 🏆 Trophies -->
+<img src="./assets/achievements.svg" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
