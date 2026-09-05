@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./harshan-banner.svg?v=8">
-  <source media="(prefers-color-scheme: light)" srcset="./harshan-banner-light.svg?v=1">
-  <img src="./harshan-banner.svg?v=8" alt="B.S. Harshan Seliyan — B.Tech IT Student | AI/ML Explorer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./harshan-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./harshan-banner-light.svg">
+  <img src="./harshan-banner.svg" alt="B.S. Harshan Seliyan — B.Tech IT Student | AI/ML Explorer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./harshan-lanyard.svg?v=3" alt="B.S. Harshan Seliyan ID badge" width="330"/>
+<img src="./harshan-lanyard.svg" alt="B.S. Harshan Seliyan ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -99,8 +99,8 @@ A cybersecurity project focused on analyzing suspicious emails and extracting us
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./harshan-stats.svg?v=3" alt="GitHub Stats" height="185"/>
-<img src="./harshan-langs.svg?v=3" alt="Top Languages" height="185"/>
+<img src="./harshan-stats.svg" alt="GitHub Stats" height="185"/>
+<img src="./harshan-langs.svg" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -114,7 +114,7 @@ A cybersecurity project focused on analyzing suspicious emails and extracting us
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./harshan-trophies.svg?v=3" alt="Trophies" width="95%"/>
+<img src="./harshan-trophies.svg" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
