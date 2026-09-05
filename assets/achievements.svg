@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="100%" height="520">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151126"/>
+      <stop offset="100%" stop-color="#0F1220"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#080B12"/>
+  <!-- cards -->
+  <g id="cards">
+    <!-- Card 1 -->
+    <g transform="translate(40,40)">
+      <rect width="320" height="160" rx="16" fill="url(#cardGrad)" stroke="#A855F7" stroke-opacity="0.4"/>
+      <text x="24" y="40" font-family="Consolas,monospace" font-size="18" fill="#F8FAFC">🧠 AI BUILDER</text>
+      <text x="24" y="70" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">Machine Learning Projects</text>
+      <rect x="24" y="90" width="272" height="8" rx="4" fill="#0F1220"/>
+      <rect x="24" y="90" width="180" height="8" rx="4" fill="#A855F7">
+        <animate attributeName="width" values="120;180;120" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <!-- Card 2 -->
+    <g transform="translate(400,40)">
+      <rect width="320" height="160" rx="16" fill="url(#cardGrad)" stroke="#22D3EE" stroke-opacity="0.4"/>
+      <text x="24" y="40" font-family="Consolas,monospace" font-size="18" fill="#F8FAFC">🤖 ML EXPLORER</text>
+      <text x="24" y="70" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">AI Experiments</text>
+      <rect x="24" y="90" width="272" height="8" rx="4" fill="#0F1220"/>
+      <rect x="24" y="90" width="160" height="8" rx="4" fill="#22D3EE">
+        <animate attributeName="width" values="100;160;100" dur="5s" repeatCount="indefinite" begin="0.5s"/>
+      </rect>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite" begin="0.3s"/>
+    </g>
+    <!-- Card 3 -->
+    <g transform="translate(760,40)">
+      <rect width="320" height="160" rx="16" fill="url(#cardGrad)" stroke="#F472B6" stroke-opacity="0.4"/>
+      <text x="24" y="40" font-family="Consolas,monospace" font-size="18" fill="#F8FAFC">💻 CODE BUILDER</text>
+      <text x="24" y="70" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">Software Development</text>
+      <rect x="24" y="90" width="272" height="8" rx="4" fill="#0F1220"/>
+      <rect x="24" y="90" width="200" height="8" rx="4" fill="#F472B6">
+        <animate attributeName="width" values="140;200;140" dur="4.5s" repeatCount="indefinite" begin="1s"/>
+      </rect>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite" begin="0.6s"/>
+    </g>
+    <!-- Card 4 -->
+    <g transform="translate(40,240)">
+      <rect width="320" height="160" rx="16" fill="url(#cardGrad)" stroke="#4ADE80" stroke-opacity="0.4"/>
+      <text x="24" y="40" font-family="Consolas,monospace" font-size="18" fill="#F8FAFC">🚀 PROJECT CREATOR</text>
+      <text x="24" y="70" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">Real-world Solutions</text>
+      <rect x="24" y="90" width="272" height="8" rx="4" fill="#0F1220"/>
+      <rect x="24" y="90" width="170" height="8" rx="4" fill="#4ADE80">
+        <animate attributeName="width" values="110;170;110" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite" begin="0.2s"/>
+    </g>
+    <!-- Card 5 -->
+    <g transform="translate(400,240)">
+      <rect width="320" height="160" rx="16" fill="url(#cardGrad)" stroke="#C084FC" stroke-opacity="0.4"/>
+      <text x="24" y="40" font-family="Consolas,monospace" font-size="18" fill="#F8FAFC">⚡ TECH ENTHUSIAST</text>
+      <text x="24" y="70" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">Exploring Technology</text>
+      <rect x="24" y="90" width="272" height="8" rx="4" fill="#0F1220"/>
+      <rect x="24" y="90" width="190" height="8" rx="4" fill="#C084FC">
+        <animate attributeName="width" values="130;190;130" dur="4.8s" repeatCount="indefinite" begin="0.7s"/>
+      </rect>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite" begin="0.4s"/>
+    </g>
+    <!-- Card 6 -->
+    <g transform="translate(760,240)">
+      <rect width="320" height="160" rx="16" fill="url(#cardGrad)" stroke="#A855F7" stroke-opacity="0.4"/>
+      <text x="24" y="40" font-family="Consolas,monospace" font-size="18" fill="#F8FAFC">🎓 TECH LEARNER</text>
+      <text x="24" y="70" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">Continuous Learning</text>
+      <rect x="24" y="90" width="272" height="8" rx="4" fill="#0F1220"/>
+      <rect x="24" y="90" width="210" height="8" rx="4" fill="#A855F7">
+        <animate attributeName="width" values="150;210;150" dur="5.2s" repeatCount="indefinite" begin="1.2s"/>
+      </rect>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite" begin="0.8s"/>
+    </g>
+  </g>
+</svg>

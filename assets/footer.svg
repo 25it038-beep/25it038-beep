@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#080B12"/>
+  <!-- glowing line -->
+  <line x1="50" y1="80" x2="1150" y2="80" stroke="url(#footerGrad)" stroke-width="2" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <text x="600" y="120" font-family="Consolas,monospace" font-size="22" fill="#F8FAFC" text-anchor="middle">Keep Learning. Keep Building. Keep Growing.</text>
+  <text x="600" y="155" font-family="Consolas,monospace" font-size="14" fill="#94A3B8" text-anchor="middle">AI • ML • CODE • INNOVATION</text>
+  <!-- blinking cursor -->
+  <rect x="950" y="130" width="2" height="18" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <!-- floating particles -->
+  <circle cx="200" cy="100" r="2" fill="#A855F7">
+    <animateTransform attributeName="transform" type="translate" values="0 0;5 -5;0 0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="100" r="2" fill="#22D3EE">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-5 -5;0 0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</svg>
