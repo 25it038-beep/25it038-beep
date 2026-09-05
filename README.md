@@ -113,8 +113,7 @@ A cybersecurity project focused on analyzing suspicious emails and extracting us
 
 <br/><br/>
 
-<!-- 🏆 Trophies -->
-<img src="./assets/achievements.svg" alt="Trophies" width="95%"/>
+
 
 <br/><br/>
 
