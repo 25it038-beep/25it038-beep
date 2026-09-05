@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero.svg">
-  <img src="./harshan-banner-dark.svg/>
+  <img src="./harshan-banner-dark.svg" alt="Banner">
 </picture>
 
 </div>
