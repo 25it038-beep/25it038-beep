@@ -100,7 +100,7 @@ A cybersecurity project focused on analyzing suspicious emails and extracting us
 ### 📊 GitHub Stats & Graphs
 
 <img src="./harshan-stats.svg" alt="GitHub Stats" height="185"/>
-<img src="./harshan-langs.svg" alt="Top Languages" height="185"/>
+<img src="./harshan-languages.svg" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
