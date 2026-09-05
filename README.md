@@ -1,155 +1,109 @@
-# AI DEVELOPER // DIGITAL INNOVATION
+<div align="center">
 
-<p align="center">
-  <img src="assets/hero.svg" alt="Hero Banner" width="100%">
-</p>
+# 👋 Hey, I'm Harshan Seliyan
 
----
+### 🚀 B.Tech IT Student | AI/ML Explorer 
 
-### Terminal
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+AI+%26+Code;Exploring+Machine+Learning;Creating+Real-World+Solutions;Always+Learning%2C+Always+Building" alt="Typing animation"/>
 
-```bash
-harshan@dev:~$ whoami
-AI / ML Developer
-Software Developer
-Technology Explorer
+<br/>
 
-harshan@dev:~$ current_focus
-Artificial Intelligence
-Machine Learning
-Software Development
-```
+<a href="https://github.com/25it038-beep">
+  <img src="https://img.shields.io/badge/GitHub-25it038--beep-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/harshan-seliyan-b-s-5339b4282">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:harshanseliyan28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
 
----
+<br/><br/>
 
-### About Me
+<img src="https://komarev.com/ghpvc/?username=25it038-beep&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-> I enjoy exploring technology, understanding how systems work, and turning ideas into practical solutions.
+</div>
 
-- 🎓 B.Tech Information Technology
-- 🤖 Exploring AI & Machine Learning
-- 💻 Building software solutions
-- 🧠 Learning new technologies
-- 🚀 Turning ideas into real-world projects
-- ⚡ Improving every day
+<br/>
 
 ---
 
-### Technology Stack
+## 🧑‍💻 About Me
 
-**LANGUAGES**  
-Python • C++ • Java • JavaScript
+```text
+🎓  B.Tech IT Student
+🔭  Building AI-powered applications
+🌱  Learning AI/ML, Deep Learning & Full-Stack Development
+🛡️  Interested in Cybersecurity & Digital Forensics
+💡  Exploring how technology can solve real-world problems
+⚡  Always curious. Always building.
 
-**FRONTEND**  
-React • HTML • CSS
+"I don't just learn technology. I build with it." 💻
 
-**BACKEND**  
-FastAPI • REST APIs
+🛠️ Tech Stack
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" alt="Languages"/>
+AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI ML"/>
+Web & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mongodb&theme=dark" alt="Web Backend"/>
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/> </div>
+🚀 My Projects
+<div align="center">
+🛠️ Project	🔗 Repository
+🤖 HS AI Studio	View Project
+📒 Ledger	View Project
+✨ Lumina	View Project
+💬 HS Chatbot	View Project
+🎓 Acdemia01	View Project
+🌱 EcoPilot	View Project
+🛡️ Forensic AI	View Project
+</div>
+🛡️ Featured Project
+Forensic AI
 
-**DATABASE**  
-MongoDB • SQL
+AI-Powered Email Threat Detection, Geolocation & Forensic Intelligence Platform
 
-**AI / ML**  
-Machine Learning • Deep Learning • Artificial Intelligence
+A cybersecurity project focused on analyzing suspicious emails and extracting useful forensic intelligence.
 
-**TOOLS**  
-Git • GitHub • Linux • VS Code
+Key areas of interest:
 
----
+📧 Email threat detection
+🔍 Email header analysis
+🛡️ SPF / DKIM / DMARC
+🌍 IP geolocation
+🧠 Machine Learning
+🔗 Threat intelligence
 
-### Featured Project — FORENSIC AI
+🔗 Explore Forensic AI →
 
-<p align="center">
-  <img src="assets/forensic-ai.svg" alt="Forensic AI Pipeline" width="100%">
-</p>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=25it038-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25it038-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 
-**🛡️ FORENSIC AI**  
-*AI-Powered Email Threat Detection, Geolocation & Forensic Intelligence Platform*
+<br/><br/>
 
-> An AI-powered platform that analyzes suspicious emails, examines email headers, evaluates authentication signals, extracts network intelligence, and generates a forensic threat assessment.
+<img src="https://streak-stats.demolab.com?user=25it038-beep&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
-**Features**
-- Phishing email detection
-- Email header analysis
-- SPF / DKIM / DMARC verification
-- RFC 5322 header parsing
-- IP extraction & IP geolocation
-- WHOIS / RDAP intelligence
-- DNS intelligence
-- Received-chain reconstruction
-- Threat scoring
-- URL threat analysis
-- AI + rule-based detection
+<br/><br/>
 
-[🚀 Repository](YOUR_FORENSIC_AI_REPOSITORY_URL)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=25it038-beep&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/25it038-beep/25it038-beep/output/github-snake.svg" alt="Contribution Snake"/> </div>
+📫 Let's Connect
+<div align="center"> <a href="mailto:harshanseliyan28@gmail.com"> <img src="https://img.shields.io/badge/Gmail-harshanseliyan28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
 
----
+<br/><br/>
 
-### Achievements
+<a href="https://www.linkedin.com/in/harshan-seliyan-b-s-5339b4282"> <img src="https://img.shields.io/badge/LinkedIn-Harshan%20Seliyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/harshan_sel_hx"> <img src="https://img.shields.io/badge/Instagram-harshan__sel__hx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 
-<p align="center">
-  <img src="assets/achievements.svg" alt="Achievements" width="100%">
-</p>
+<br/><br/>
 
----
+<a href="https://github.com/25it038-beep"> <img src="https://img.shields.io/badge/GitHub-25it038--beep-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
+<div align="center">
+💙 Thanks for visiting my profile!
 
-### GitHub Statistics
+⭐ Always learning, always building.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25it038-beep&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=25it038-beep&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25it038-beep&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-### Contribution Snake
-
-🐍 Watch the snake explore my contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/25it038-beep/25it038-beep/main/dist/github-contribution-grid-snake.svg" alt="Snake"/>
-</p>
-
-*Snake generated by `.github/workflows/snake.yml`. Replace `github_user_name` with your username if needed.*
-
----
-
-### Currently Learning
-
-- AI / ML — Exploring
-- Software Development — Learning
-- Backend Engineering — Building
-- Deep Learning — Improving
-- Cloud Technologies — Exploring
-- Automation — Building
-
----
-
-### How I Think
-
-**OBSERVE → ANALYZE → BUILD → TEST → IMPROVE**
-
-> Observe real-world problems. Analyze the underlying system. Build practical solutions. Test against real scenarios. Continuously improve.
-
----
-
-### Connect With Me
-
-- GitHub: [YOUR_GITHUB_URL](YOUR_GITHUB_URL)
-- LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
-- Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
-
----
-
-<p align="center">
-  <img src="assets/footer.svg" alt="Footer" width="100%">
-</p>
-
----
-
-*My Goal: Build intelligent technology that makes complex problems simple.*
+</div> ```
