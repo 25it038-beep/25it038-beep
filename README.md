@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero.svg">
-  <img src="./harshan-banner-dark.svg" alt="Banner">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/harshan-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/harshan-banner-light.svg">
+  <img src="./assets/harshan-banner-dark.svg" alt="Banner">
 </picture>
 
 </div>
