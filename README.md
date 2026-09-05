@@ -120,7 +120,7 @@ A cybersecurity project focused on analyzing suspicious emails and extracting us
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/25it038-beep/25it038-beep/output/github-snake-pink.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/25it038-beep/25it038-beep/main/dist/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
