@@ -70,7 +70,7 @@
 | 🤖 **HS AI Studio** | [View Project](https://hs-ai-studio.onrender.com/) |
 | 📒 **Ledger** | [View Project](https://ledger-2-er3t.onrender.com/) |
 | ✨ **Lumina** | [View Project](https://lumina-pghe.onrender.com/) |
-| 💬 **HS Chatbot** | [View Project](https://acdemia01-2.onrender.com/) |
+| 💬 **HS Chatbot** | [View Project](https://hs-chatbot-3.onrender.com/) |
 | 🎓 **Academia01** | [View Project](https://github.com/25it038-beep) |
 | 🌱 **EcoPilot** | [View Project](https://github.com/25it038-beep) |
 | 🛡️ **Forensic AI** | [View Project](https://forensic-ai-1-mma4.onrender.com/) |
